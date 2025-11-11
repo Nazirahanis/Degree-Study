@@ -8,11 +8,10 @@
 ![photo_2025-11-11_21-42-25](https://github.com/user-attachments/assets/27376828-e3c0-4410-a05e-b530d45f7a27)
 
 
- We attend a PC Assembly class accompanied by our Techonoly, Information and System's lecturer, Dr Aryati on 30th October.
-In session, we were split into a few groups before we learn about how to assemble and disassemble CPU components.
-It was a valueable hands-on experience and oppurtuniy to see and handle the components physically, not just theoretically.
-It enhanced my understandings and gave me a clear version of what we usually learn in lectures.
-After the session, we also had a quiz to recap about what we learn during the assembly. 
+On that day, we attended a PC Assembly class accompanied by our Technology, Information and System's lecturer, Dr Aryati binti Bakri.
+In this session, we were split into a few groups before the briefing about how to assemble and disassemble CPU components. 
+It was conducted by a few staffs as well. It was a valuable hands-on experience and opportunity to see and handle the components physically, not just theoretically. 
+It enhanced my understandings and gave me a clear version of what we usually learn in lectures. After the session, we also had a quiz to recap about what we learn during the assembly.
 
   
   
