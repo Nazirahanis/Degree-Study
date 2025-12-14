@@ -1,7 +1,9 @@
 # Integrity Week ULRS1032
 
 🗓️ 10 December 2025
+
 ⏰ 2.00 pm - 5.00 pm
+
 📍 Lecture Hall 7, N24
 
 I attended talks for Integrity Week under the course Integrity and Anti-Corruption (ULRS1032). This talk was held at Lecture Hall 7, N24, from 2 pm until 5 pm.
